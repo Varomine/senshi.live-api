@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "senshi-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-02-22",
+  "observability": {
+    "enabled": true
+  }
+}
