@@ -1,4 +1,4 @@
-# Senshi.live Video Scraper API
+# Senshi.live Video Scraper API ( using [MALID](https://myanimelist.net/) as animeID )
 
 An unofficial REST API to scrape anime details, episodes, and stream servers from `senshi.live`. Designed as a Cloudflare Worker using Hono and TypeScript. It automatically resolves NinStream (Server 1), Streamnin (Server 2), and Filemoon (Server 3) links to direct video sources, including a built-in solver for Filemoon's custom Proof-of-Work (PoW) captcha protection.
 
